@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, GitLab!");
+        System.out.println("Urgent fix: Hello!");
     }
 }
 
